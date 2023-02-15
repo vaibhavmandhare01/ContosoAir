@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vaibhavmandhare90/WebAppAuction/_apis/build/status/vaibhavmandhare01.ContosoAir?branchName=master)](https://dev.azure.com/vaibhavmandhare90/WebAppAuction/_build/latest?definitionId=7&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
